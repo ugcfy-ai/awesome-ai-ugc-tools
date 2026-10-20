@@ -55,6 +55,7 @@ Broader ad platforms where UGC-style video is one format among static images, co
 
 For cutting, captioning and polishing footage, whether it was filmed or generated.
 
+- [CapCut](https://www.capcut.com) - Cross-platform editor with auto-captions, templates and AI tools for short-form video.
 - [Captions](https://www.captions.ai) - AI video generator and editor for short-form content, with auto-captions and AI editing.
 - [VEED](https://www.veed.io) - Browser-based editor with talking heads, AI editing, dubbing and subtitles.
 
