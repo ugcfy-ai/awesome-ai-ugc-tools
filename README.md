@@ -28,6 +28,7 @@ Tools built specifically to produce creator-style UGC video ads with AI actors.
 - [Creatify](https://creatify.ai) - AI ad generator that turns a product URL or assets into video and image ad variations.
 - [CreateUGC](https://www.createugc.ai) - UGC-style video ad generator for e-commerce products that follows your script.
 - [MakeUGC](https://makeugc.ai) - Video ad studio with 1,000+ AI actors, product-in-hand videos, cinematic clips and an API.
+- [RemakeThat](https://remakethat.com) - Links a proven TikTok or Facebook video as the creative brief, then writes an original script and renders a faceless AI-creator version.
 - [Shhots AI](https://shhots.ai) - Promptless ad generator that turns one product photo into UGC, video and static ads.
 - [Tagshop AI](https://www.tagshop.ai) - Paste a product URL, pick an AI avatar and get a creator-style ad; 300+ avatars and 75+ languages.
 - [UGCfy AI](https://ugcfy.ai) - Paste a product link and an agent reads the page, writes hooks and scripts, builds a storyboard and renders a captioned 9:16 ad with AI actors. Includes claim guardrails for beauty, skincare and supplement copy. Scripts and storyboard plans are free; video rendering is paid ([pricing](https://ugcfy.ai/pricing)). [51-second demo](https://www.youtube.com/watch?v=Dc1N9x38wRQ).
