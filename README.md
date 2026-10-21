@@ -39,6 +39,7 @@ Tools built specifically to produce creator-style UGC video ads with AI actors.
 General avatar video tools. Useful for UGC-style ads, but check each plan's terms for paid-advertising use.
 
 - [HeyGen](https://www.heygen.com) - AI videos from a personal avatar of your own face and voice, plus stock avatars and translation.
+- [makeaicreator](https://makeaicreator.com) - Design a consistent AI influencer from a plain-language persona; face-anchored photos, voiceover videos and product-placement scenes you own outright.
 - [Synthesia](https://www.synthesia.io) - Presenter-style AI avatar videos, mainly aimed at business, training and internal communication.
 - [Topview](https://www.topview.ai) - AI video agent that creates marketing videos and ads from scripts, references or product URLs.
 
