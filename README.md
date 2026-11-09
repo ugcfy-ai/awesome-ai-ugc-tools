@@ -56,6 +56,7 @@ Broader ad platforms where UGC-style video is one format among static images, co
 For cutting, captioning and polishing footage, whether it was filmed or generated.
 
 - [Captions](https://www.captions.ai) - AI video generator and editor for short-form content, with auto-captions and AI editing.
+- [Barz Studio](https://barzvideo.com/?utm_source=ugcfy-ai-awesome-ai-ugc-tools&utm_medium=directory&utm_campaign=backlinks) - Free browser rap lyric video maker; beat-reactive captions, export 9:16 WebM.
 - [VEED](https://www.veed.io) - Browser-based editor with talking heads, AI editing, dubbing and subtitles.
 
 ## Human UGC creator marketplaces
