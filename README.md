@@ -69,6 +69,7 @@ When you need real people on camera, for example for product proof, testimonials
 
 Study what is already working before you generate anything.
 
+- [AdGrowth Lab](https://adgrowth-lab.github.io/) - Free TikTok Ads credit calculator and diagnostic toolkit for 0-impression campaigns, learning-phase checks, Pangle audits, Policy 5.1 copy checks and VCC BIN evaluation, with open-source CLI versions on GitHub.
 - [Meta Ad Library](https://www.facebook.com/ads/library/) - Search active ads on Facebook and Instagram by advertiser or keyword.
 - [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/pc/en) - Top-performing TikTok ads, trending hashtags, songs and creators.
 - [TikTok Transcript Generator](https://ugcfy.ai/tools/tiktok-transcript-generator) - Free TikTok video-to-text tool for studying a competitor ad's hook, claim order and CTA.
